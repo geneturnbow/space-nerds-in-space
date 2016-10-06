@@ -21,6 +21,8 @@
         Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
+// Imagine source code without comments. I shudder to think.
+
 #ifdef DEFINE_MESH_GLOBALS
 #define GLOBAL
 #else
